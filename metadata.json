@@ -1,5 +1,13 @@
 {
-  "name": "ZARA THE CAR",
+  "name": "ZARA THE CAT",
   "symbol": "ZARA",
-  "image": "https://raw.githubusercontent.com/akhilexx/zara/main/logo.png"
+  "description": "Zara the Cat Coin (ZARA) is a new meme cryptocurrency inspired by the playful and adventurous spirit of Zara, the most charismatic and lovable feline on the internet. Zara's antics have captivated the hearts of millions, and now her charm is transforming the crypto world!",
+  "image": "https://raw.githubusercontent.com/akhilexx/zara/main/logo.png",
+  "extensions": {
+    "website": "https://zarathecat.sol",
+    "twitter": "zarathecatonsol",
+    "telegram": "zarathecatonsol"
+  }
 }
+
+
